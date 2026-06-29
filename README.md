@@ -10,11 +10,11 @@
 
 ## 🚀 About Me
 
-* 🌱 Currently learning and improving my programming skills
-* 🎓 Third-year IT Student at Jimma University
-* 💻 Interested in Web Development, Software Engineering, and Open Source Projects
-* 🚀 Always looking for opportunities to grow, collaborate, and gain practical experience
-* 📚 Enjoy solving problems and learning new technologies
+*  Currently learning and improving my programming skills
+*  Third-year IT Student at Jimma University
+*  Interested in Web Development, Software Engineering, and Open Source Projects
+*  Always looking for opportunities to grow, collaborate, and gain practical experience
+*  Enjoy solving problems and learning new technologies
 
 ---
 
