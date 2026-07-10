@@ -2,7 +2,12 @@
 
 # Hi 👋, I'm Melkamu Teshome
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+Problem+Solver" alt="Typing SVG" />
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1200&color=0EA5E9&center=true&vCenter=true&width=800&lines=Junior+Full-Stack+Developer;Problem+Solver;UI%2FUX+Enthusiast;Continuous+Learner"
+    alt="Typing SVG"
+  />
+</p>
 
 </div>
 
