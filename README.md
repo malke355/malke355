@@ -39,25 +39,23 @@
 ---
 
 # 💻 Tech Stack
-
-### Languages
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=javascript,php,java,html,css" />
-</p>
-
-### Frameworks & Runtime
+## Languages
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,npm" />
+  <img src="https://skillicons.dev/icons?i=js,php,java,html,css" />
 </p>
 
-### Databases & Tools
+## Frameworks & Runtime
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,github" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,npm" />
 </p>
 
+## Databases & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github" />
+</p>
 ---
 
 ## 📊 GitHub Stats
