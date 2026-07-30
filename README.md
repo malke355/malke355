@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Melkamu Teshome
+# Hi  I'm Melkamu Teshome
 
 <p align="center">
   <img
