@@ -28,8 +28,9 @@
 
 <p align="left">
 
-<a href="https://your-portfolio-link.com" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /> </a>
-
+<a href="https://melkamu-portfolio.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 </p>
 
 ## 🌐 Connect With Me
